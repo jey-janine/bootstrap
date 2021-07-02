@@ -1,0 +1,28 @@
+.fiap-bg-gray {
+    background-color: #c7c7c7!important;
+}
+
+.fiap-bg-gray-2 {
+    background-color: #e2e2e2;
+}
+
+.fiap-title{
+    padding-left: 20%;
+    margin-top: 6px;
+    font-size: 18px;
+}
+.fiap-primary-color{
+   color: #c7c7c7;
+}
+.fiap-secondary-color{
+    color: #828282;
+}
+
+.fiap-btn-footer{
+    height: 40px;
+    line-height: 40px;
+}
+
+.navbar-light .navbar-toggler {
+    border: hidden;
+}
